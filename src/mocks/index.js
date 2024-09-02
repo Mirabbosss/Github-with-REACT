@@ -4,6 +4,7 @@ import ProjectsIcon from '../components/icons/navigation_projects.svg';
 import PackagesIcon from '../components/icons/navigation_packages.svg';
 import StarsIcon from '../components/icons/navigation_stars.svg';
 import NamozVaqtlari from '../assets/images/namoz-vaqtlari.png';
+import Github from '../assets/images/github.png';
 import ToDo from '../assets/images/to-do.png';
 import MoviesPark from '../assets/images/movies-park.png';
 import CarsCompany from '../assets/images/cars-company.png';
@@ -112,6 +113,13 @@ export const projects = [
         link: 'https://namoz-vaqtlari-mu.vercel.app',
         github: 'https://github.com/Mirabbosss/Namoz-vaqtlari',
         image: NamozVaqtlari
+    },
+    {
+        title: 'GitHub by Mirabbos',
+        used: 'React, JavaScript, Axios, SCSS, TailwindCSS',
+        link: 'https://github-with-react.vercel.app',
+        github: 'https://github.com/Mirabbosss/Github-with-REACT',
+        image: Github
     },
     {
         title: 'TO-DO',
