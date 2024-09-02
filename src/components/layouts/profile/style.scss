@@ -1,0 +1,48 @@
+.profile {
+    padding: 0px 0px 0px 74px;
+    color: #fff;
+
+    img {
+        width: 296px;
+        height: 296px;
+        object-fit: cover;
+        border-radius: 50%;
+        margin: 0 auto;
+        display: block;
+        position: relative;
+        top: -33px;
+        margin-bottom: 18px;
+        left: -12px;
+    }
+
+    h2 {
+        font-size: 24px;
+        color: #C2CAD1;
+    }
+
+    p {
+        margin-bottom: 18px;
+    }
+
+    button {
+        width: 90%;
+        text-align: center;
+        margin: 0px 0px 18px 0px;
+        background-color: #343942;
+    }
+
+    .links {
+        display: flex;
+        gap: 4px;
+    }
+
+    a {
+        cursor: pointer;
+    }
+
+    ul {
+        li {
+            cursor: pointer;
+        }
+    }
+}

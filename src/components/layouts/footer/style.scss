@@ -1,0 +1,32 @@
+footer {
+    background-color: #0D1117;
+    color: #fff;
+    padding: 49.5px 0;
+    font-size: 14px;
+    
+    a {
+        color: #8B949E;
+        display: flex;
+        align-items: center;
+        gap: 16px;
+    }
+ 
+    nav {
+        ul {
+            display: flex;
+            gap: 42px;
+
+            li {
+                display: flex;
+
+                &:first-child{
+                    margin-right: 70px;
+                }
+
+                .link {
+                    color: #58A6FF;
+                }
+            }
+        }
+    }
+}
