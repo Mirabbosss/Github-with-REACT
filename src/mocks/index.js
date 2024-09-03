@@ -81,7 +81,7 @@ export const footerNavigation = [
         link: '/docs'
     },
     {
-        title: 'Contant GitHub',
+        title: 'Contact GitHub',
         link: '/contact'
     },
     {
