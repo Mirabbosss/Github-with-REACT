@@ -116,22 +116,22 @@ export const projects = [
     },
     {
         title: 'GitHub by Mirabbos',
-        used: 'React, JavaScript, Axios, SCSS, TailwindCSS',
+        used: 'React, JavaScript, API, Axios, SCSS, TailwindCSS',
         link: 'https://github-with-react.vercel.app',
         github: 'https://github.com/Mirabbosss/Github-with-REACT',
         image: Github
     },
     {
         title: 'TO-DO',
-        used: 'React, SCSS, TailwindCSS',
+        used: 'React, SCSS, TailwindCSS, Json-server',
         link: 'https://to-do-react-rho-two.vercel.app',
         github: 'https://github.com/Mirabbosss/TO-DO---REACT',
         image: ToDo
     },
     {
         title: 'Movies Park',
-        used: 'JavaScript, CSS, TailwindCSS',
-        link: 'movies-park-bay.vercel.app',
+        used: 'JavaScript, API, CSS, TailwindCSS',
+        link: 'https://movies-park-bay.vercel.app',
         github: 'https://github.com/Mirabbosss/Movies-park',
         image: MoviesPark
     },
